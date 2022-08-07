@@ -1,0 +1,21 @@
+companies:
+  # - name: Dragos, Inc.
+  #   keywords: [Intern, security, QA, Quality Assurance, Co-op, Python]
+  #   job-posting-tag: h5
+  #   job-board-type: lever
+  #   url: https://jobs.lever.co/dragos
+  - name: Rivian
+    keywords: [Intern, Interns, Co-op]
+    job-posting-tag: h6
+    job-board-type: greenhouse
+    url: https://boards.greenhouse.io/rivian
+  # - name: Maple Finance
+  #   keywords: [Backend]
+  #   job-posting-tag: h5
+  #   job-board-type: lever
+  #   url: https://jobs.lever.co/maple-finance
+  # - name: Chainalysis
+  #   keywords: [Intern, Security, Cybersecurity]
+  #   job-posting-tag: div
+  #   job-board-type: greenhouse
+  #   url: https://boards.greenhouse.io/chainalysis
