@@ -1,21 +1,56 @@
 companies:
-  # - name: Dragos, Inc.
-  #   keywords: [Intern, security, QA, Quality Assurance, Co-op, Python]
-  #   job-posting-tag: h5
-  #   job-board-type: lever
-  #   url: https://jobs.lever.co/dragos
+  - name: Dragos, Inc.
+    keywords: [Intern, security, QA, Quality Assurance, Co-op, Python]
+    job-posting-tag: h5
+    job-board-type: lever
+    url: https://jobs.lever.co/dragos
   - name: Rivian
     keywords: [Intern, Interns, Co-op]
     job-posting-tag: h6
     job-board-type: greenhouse
     url: https://boards.greenhouse.io/rivian
-  # - name: Maple Finance
-  #   keywords: [Backend]
-  #   job-posting-tag: h5
-  #   job-board-type: lever
-  #   url: https://jobs.lever.co/maple-finance
-  # - name: Chainalysis
-  #   keywords: [Intern, Security, Cybersecurity]
-  #   job-posting-tag: div
-  #   job-board-type: greenhouse
-  #   url: https://boards.greenhouse.io/chainalysis
+  - name: Maple Finance
+    keywords: [Backend]
+    job-posting-tag: h5
+    job-board-type: lever
+    url: https://jobs.lever.co/maple-finance
+  - name: Chainalysis
+    keywords: [Intern, Security, Cybersecurity]
+    job-posting-tag: div
+    job-board-type: greenhouse
+    url: https://boards.greenhouse.io/chainalysis
+  - name: Alchemy
+    keywords: [Intern, Interns, Security]
+    job-posting-tag: div
+    job-board-type: greenhouse
+    url: https://boards.greenhouse.io/alchemy
+  - name: Chainalysis
+    keywords: [Intern, Interns, Security]
+    job-posting-tag: div
+    job-board-type: greenhouse
+    url: https://boards.greenhouse.io/chainalysis
+  - name: Huntress
+    keywords: [Intern, Interns, Security]
+    job-posting-tag: div
+    job-board-type: greenhouse
+    url: https://boards.greenhouse.io/huntress
+  - name: Coil
+    keywords: [Intern, Interns, Security]
+    job-posting-tag: h5
+    job-board-type: lever
+    url: https://jobs.lever.co/coil
+  - name: Titan
+    keywords: [Intern, Interns, Security]
+    job-posting-tag: div
+    job-board-type: greenhouse
+    url: https://boards.greenhouse.io/titan
+  - name: The Wonderlust Group
+    keywords: [Intern, Interns, Security]
+    job-posting-tag: div
+    job-board-type: lever
+    url: https://jobs.lever.co/thewanderlustgroup
+  - name: Hadrian
+    keywords: [Intern, Interns, Security]
+    job-posting-tag: div
+    job-board-type: lever
+    url: https://jobs.lever.co/hadrian
